@@ -7,8 +7,8 @@
 
 2. Low level languages are a popular choice for:
 
-- [x] Websites
-- [ ] Hardware
+- [ ] Websites
+- [x] Hardware
 - [ ] Video game software
 
 3. Which one of these tools would most likely be in a web developer's environment?
