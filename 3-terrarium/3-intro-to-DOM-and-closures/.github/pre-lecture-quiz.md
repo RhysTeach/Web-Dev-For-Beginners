@@ -4,15 +4,15 @@ Complete this quiz in class
 
 1. The DOM stands for 'Document Object Management'
 
-- [ ] [true]
+- [x] [true]
 - [ ] [false]
 
 2. The DOM can be thought of as a tree
 
-- [ ] [true]
+- [x] [true]
 - [ ] [false]
 
 3. Using the Web API, you can manipulate the DOM
 
-- [ ] [true]
+- [x] [true]
 - [ ] [false]
